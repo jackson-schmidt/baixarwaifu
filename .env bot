@@ -4,5 +4,5 @@ BOT_ACESS_TOKEN=1331586558340820993-y43IQzmksBbpL076cGXreihJClFQAI
 BOT_ACESS_TOKEN_SECRET=StPO0Z0sAQcW2whFc7uy8ya6XSfpSJb0nDoxu0QmWYv4s
 git add .
 git commit -m "Meu primeiro bot de twitter"
-git remote add Bot {seu link copiado}
+git remote add Bot {https://github.com/jackson-schmidt/baixawaifu.git}  
 git push Bot master
