@@ -1,3 +1,0 @@
-yarn init -y
-yarn add dotenv twitter
-yarn add nodemon -D
